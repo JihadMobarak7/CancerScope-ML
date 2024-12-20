@@ -1,4 +1,4 @@
-# CancerScope: Breast Cancer Subtype Classification Using Machine Learning
+# CancerScope: Breast Cancer Subtype Classification Using ML
 
 ## Abstract
 CancerScope is a machine learning project that classifies breast cancer subtypes using advanced techniques. The study employs Logistic Regression, Random Forest, Gradient Boosting Machines (GBMs), and Neural Networks to handle challenges like class imbalance, high-dimensional data, and subtype misclassification. Using a dataset of 1,500 samples from the American University of Beirut Medical Center (AUBMC), preprocessing techniques such as SMOTE, PCA, and normalization were applied. Results show Neural Networks achieving an F1-score of 93.52%, Random Forest yielding an F1-score of 94.71%, and Gradient Boosting achieving an F1-score of 93.66%.
